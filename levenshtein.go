@@ -4,7 +4,6 @@
 package levenshtein
 
 import (
-	"fmt"
 	"math"
 	"strings"
 )
