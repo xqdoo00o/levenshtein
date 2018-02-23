@@ -33,4 +33,4 @@ func main() {
 
 Documentation
 -------------
-for JavaScript Version see [js-levenshtein](https://github.com/gustf/js-levenshtein)
+    for JavaScript version see [js-levenshtein](https://github.com/gustf/js-levenshtein)
